@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aayushi</h1>
 <h3 align="center">A passionate Computer Science and Engineering student from India</h3>
 
-- 🔭 I’m currently working on [a computer vision research project for identifying jump errors of women basketball players.](https://github.com/AayuNVShah/CV_2024_8_1)
+- 🔭 I’m currently working on a computer vision research [project](https://github.com/AayuNVShah/CV_2024_8_1) for identifying jump errors of women basketball players.
 
-- 🌱 I’m currently learning **large language models and blockchain.**
+- 🌱 I’m currently learning **large language models** and **blockchain.**
 
-- 💬 Ask me about **machine learning, computer vision and natural language processing. I will be more than happy to discuss these topics.**
+- 💬 Ask me about **machine learning, computer vision and natural language processing**. I will be more than happy to discuss these topics.
 
-- 📫 How to reach me **aayushah74@gmail.com**
+- 📫 Reach me @**aayushah74@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
